@@ -1,0 +1,262 @@
+{
+    "basics": {
+      "name": "Albert Capdevila Solanich",
+      "label": "Computer Science Engineer focused on cybersecurity",
+      "image": "/me.webp",
+      "email": "albert.capde00@gmail.com",
+      "phone": "+34 622341907",
+      "url": "https://albertcs.dev",
+      "summary": "I'm Albert from Barcelona. I started my career as an Embedded Software Developer and have now redirected my path towards cybersecurity. Committed to adapting and excelling in this dynamic field.",
+      "location": {
+        "address": "",
+        "postalCode": "08620",
+        "city": "St. Vicenç dels Horts, Barcelona",
+        "countryCode": "ES",
+        "region": "Spain",
+        "locationLink": "https://maps.app.goo.gl/72cRwZEZ1iKzVbsC7"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "albertcapde",
+          "url": "https://www.linkedin.com/in/albertcapde/"
+        },
+        {
+          "network": "GitHub",
+          "username": "AlbertCapde",
+          "url": "https://github.com/albertcapde"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Giesecke+Devrient (G+D)",
+        "position": "Embedded Software Engineer",
+        "url": "https://www.gi-de.com/en/",
+        "startDate": "2022-01-01",
+        "startMonth": "JAN",
+        "endDate": "2022-08-01",
+        "endMonth": "AUG",
+        "summary": "Embedded software engineer involved in developing Java Card applications, performing C++ tests to automate the validation of applications, executing tests, analyzing code, resolving bugs and maintaining test automation tools. I also actively participated in the software release process, documenting releases and testing the software in real environments. Notably, I played a leading role in the testing of a mobile payment application for a credit card brand.",
+        "highlights": [
+          "Embedded Software"
+        ]
+      },
+      {
+        "name": "Giesecke+Devrient (G+D)",
+        "position": "Internship",
+        "url": "https://www.gi-de.com/en/",
+        "startDate": "2021-03-01",
+        "startMonth": "MAR",
+        "endDate": "2022-01-01",
+        "endMonth": "JAN",
+        "summary": "During my internship I gained experience in smart card technologies and automated testing of Java Card applications. My main focus was on technical tasks, including C++ test automation for Java Card applications validation, test execution, log analysis, bug reporting and active participation in software release processes. I have also been actively involved in agile methodologies, participating in Scrum ceremonies and performing tasks defined by the Scrum methodology.",
+        "highlights": [
+          "Internship + Work Experience"
+        ]
+      }
+    ],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "Universitat Oberta de Catalunya",
+      "url": "https://www.uoc.edu/ca/estudis/masters/master-universitari-ciberseguretat-privadesa",
+      "area": "Master of Science in Cybersecurity and Privacy",
+      "studyType": "Master's",
+      "startDate": "2023-03-01",
+      "endDate": "2024-07-01",
+      "score": "9.0",
+      "courses": [
+        "Forensic, Reversing, Blockchain, Red Team Methodology"
+      ]
+    },
+    {
+      "institution": "Universiteit Gent",
+      "url": "https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-informatics-engineering",
+      "area": "Erasmus Program - Bachelor's Degree Final Project",
+      "studyType": "Bachelor",
+      "startDate": "2022-09-01",
+      "endDate": "2023-02-01",
+      "score": "7.5",
+      "courses": [
+        "Recommender system for healthy and enjoyable activities based on location data"
+      ]
+    },
+    {
+      "institution": "Universitat Politècnica de Catalunya",
+      "url": "https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-informatics-engineering",
+      "area": "Bachelor Degree in Computer Science Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2018-09-01",
+      "endDate": "2022-07-01",
+      "score": "7.5",
+      "courses": [
+        "Networks, Web Services, Internet of Things, etc."
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Master",
+        "keywords": [
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name": "Java",
+        "level": "Master",
+        "keywords": [
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Master",
+        "keywords": [
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name": "Python",
+        "level": "Master",
+        "keywords": [
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name": "C++",
+        "level": "Master",
+        "keywords": [
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name": "Docker",
+        "level": "Master",
+        "keywords": [
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "level": "Master",
+        "keywords": [
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Master",
+        "keywords": [
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "Master",
+        "keywords": [
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name": "Code Analysis",
+        "level": "Master",
+        "keywords": [
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name": "C",
+        "level": "Master",
+        "keywords": [
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name": "Blockchain",
+        "level": "Master",
+        "keywords": [
+          "Cybersecurity"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "Catalan",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Advanced"
+      }
+    ],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+        "name": "Physical activity supporter",
+        "isActive": false,
+        "description": "Android application designed to help people find healthy and enjoyable activities in their local area and increase physical activity",
+        "highlights": [
+          "Recommender systems",
+          "Android",
+          "Kotlin"
+        ],
+        "github": "",
+        "url": ""
+      },
+      {
+        "name": "Smart Classroom",
+        "isActive": false,
+        "description": "Backend for a web application that facilitates the organisation of personalised private courses, streamlining the administration of private classes",
+        "highlights": [
+          "Python",
+          "Django",
+          "PostgreSQL",
+          "Stripe"
+        ],
+        "github": "",
+        "url": ""
+      }
+    ]
+  }
