@@ -6,14 +6,14 @@
       "email": "albert.capde00@gmail.com",
       "phone": "+34 622341907",
       "url": "https://albertcs.dev",
-      "summary": "I'm Albert from Barcelona. I started my career as an Embedded Software Developer and have now redirected my path towards cybersecurity. Committed to adapting and excelling in this dynamic field.",
+      "summary": "I'm Albert, originally from Barcelona and now based in Munich. I started my career as an Embedded Software Developer and have now redirected my path towards cybersecurity. Committed to adapting and excelling in this dynamic field.",
       "location": {
         "address": "",
-        "postalCode": "08620",
-        "city": "St. Vicenç dels Horts, Barcelona",
-        "countryCode": "ES",
-        "region": "Spain",
-        "locationLink": "https://maps.app.goo.gl/72cRwZEZ1iKzVbsC7"
+        "postalCode": "80689",
+        "city": "Munich, Germany",
+        "countryCode": "DE",
+        "region": "Germany",
+        "locationLink": "https://maps.app.goo.gl/bRVjx1HbotJK3V5h6"
       },
       "profiles": [
         {
@@ -30,29 +30,29 @@
     },
     "work": [
       {
+        "name": "ClimatePartner",
+        "position": "Security Engineer",
+        "url": "https://www.climatepartner.com/en",
+        "startDate": "2024-07-01",
+        "startMonth": "JUL",
+        "endDate": "Present",
+        "endMonth": "",
+        "summary": "",
+        "highlights": [
+          "Security Engineer"
+        ]
+      },
+      {
         "name": "Giesecke+Devrient (G+D)",
         "position": "Embedded Software Engineer",
         "url": "https://www.gi-de.com/en/",
-        "startDate": "2022-01-01",
-        "startMonth": "JAN",
+        "startDate": "2021-03-01",
+        "startMonth": "MAR",
         "endDate": "2022-08-01",
         "endMonth": "AUG",
         "summary": "Embedded software engineer involved in developing Java Card applications, performing C++ tests to automate the validation of applications, executing tests, analyzing code, resolving bugs and maintaining test automation tools. I also actively participated in the software release process, documenting releases and testing the software in real environments. Notably, I played a leading role in the testing of a mobile payment application for a credit card brand.",
         "highlights": [
           "Embedded Software"
-        ]
-      },
-      {
-        "name": "Giesecke+Devrient (G+D)",
-        "position": "Internship",
-        "url": "https://www.gi-de.com/en/",
-        "startDate": "2021-03-01",
-        "startMonth": "MAR",
-        "endDate": "2022-01-01",
-        "endMonth": "JAN",
-        "summary": "During my internship I gained experience in smart card technologies and automated testing of Java Card applications. My main focus was on technical tasks, including C++ test automation for Java Card applications validation, test execution, log analysis, bug reporting and active participation in software release processes. I have also been actively involved in agile methodologies, participating in Scrum ceremonies and performing tasks defined by the Scrum methodology.",
-        "highlights": [
-          "Internship + Work Experience"
         ]
       }
     ],
@@ -259,4 +259,5 @@
         "url": ""
       }
     ]
+
   }
