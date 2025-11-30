@@ -35,7 +35,7 @@
         "url": "https://www.climatepartner.com/en",
         "startDate": "2024-07-01",
         "startMonth": "JUL",
-        "endDate": "Present",
+        "endDate": "",
         "endMonth": "",
         "summary": "",
         "highlights": [
@@ -261,3 +261,4 @@
     ]
 
   }
+
